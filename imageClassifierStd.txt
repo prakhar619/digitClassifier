@@ -1,0 +1,14 @@
+Image Classifier
+    AlexNet (2012)
+    VGG
+    ResNets
+    DenseNets
+    U-Nets 
+    HourGlass
+
+Object Detection 
+    YOLO
+    
+Semantic Segmentation
+
+ImageNet Challenge (2009)
